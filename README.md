@@ -33,3 +33,5 @@ Lavas 工程模版基于 [vue-template](https://github.com/vuejs-templates/webpa
 ## Changelog
 
 详细的 Changelog 请看 [Release Notes](https://github.com/lavas-project/lavas-template-vue-ssr/releases)
+# ssr-pwa
+A template for vue project with ssr and pwa based on lavas
